@@ -15,14 +15,14 @@ numpy
 Predictions will be saved in '_predictions'
 
 Best predictions were achived with autogluon
-- classifictaion
+- classification
 	- clas_autogluon.py
 - regression
 	- regr_autogluon.py
 
 
 Other experiments are saved in folder 'other'
-- classifictaion
+- classification
 	- average filter for feature 0 + autogluon
 - regression
 
