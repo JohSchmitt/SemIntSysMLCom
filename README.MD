@@ -47,6 +47,6 @@ Other experiments are saved in folder 'other'
 - Python 3.9
 - Pip for python 3.9
 
-##Other
+## Other
 - Windows 10 Build 19045.2546
 - Python 3.11
