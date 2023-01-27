@@ -20,9 +20,10 @@ Best predictions were achived with autogluon
 	- regr_autogluon.py
 
 
-Other experiments are saved in folder 'other'
+Some other experiments are saved in folder 'other'
 - classification
 	- average filter for feature 0 + autogluon
+	- average filter for feature 0 + simple neural network
 - regression
 
 
