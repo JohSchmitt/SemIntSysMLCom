@@ -1,0 +1,7 @@
+__pycache__/
+clas_model/
+clas_model2/
+regr_model/
+
+pre_clas_*
+pre_regr_*
