@@ -27,7 +27,7 @@ Other experiments are saved in folder 'other'
 
 
 ## AutoGluon (python 3.9)
-1. run `python3.9 clas_autogluon.py` or `python3.9 regr_autogluon.py`
+1. from project root run `python3.9 clas_autogluon.py` or `python3.9 regr_autogluon.py`
 
 ## Other
 1. move file from folder `other` to project root and run it
