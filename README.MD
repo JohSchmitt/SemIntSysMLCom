@@ -11,7 +11,7 @@ pandas
 numpy  
 
 # General Usage
-Predictions will be saved in '_predictions'
+Predictions will be saved in `_predictions`
 
 Best predictions were achived with autogluon
 - classification
@@ -27,10 +27,10 @@ Other experiments are saved in folder 'other'
 
 
 ## AutoGluon (python 3.9)
-1. run 'python3.9 clas_autogluon.py' or 'python3.9 regr_autogluon.py'
+1. run `python3.9 clas_autogluon.py` or `python3.9 regr_autogluon.py`
 
 ## Other
-1. move file from folder 'other' to project root and run it
+1. move file from folder `other` to project root and run it
 2. ..
 3. profit
 	
