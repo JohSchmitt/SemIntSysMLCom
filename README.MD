@@ -1,17 +1,16 @@
-Seminar Intelligent Systems Machine Learning Competition WiSe 22
-University of Siegen
+Seminar Intelligent Systems Machine Learning Competition WiSe 22  
+University of Siegen  
 Johannes Schmitt
 
 # Requirements
-autogluon
+autogluon  
 	
-scikit-learn
-imblearn
-pandas
-numpy
+scikit-learn  
+imblearn  
+pandas  
+numpy  
 
-# Usage
-## General
+# General Usage
 Predictions will be saved in '_predictions'
 
 Best predictions were achived with autogluon
@@ -28,7 +27,7 @@ Other experiments are saved in folder 'other'
 
 
 ## AutoGluon (python 3.9)
-1. run 'X_autogluon.py'
+1. run 'python3.9 clas_autogluon.py' or 'python3.9 regr_autogluon.py'
 
 ## Other
 1. move file from folder 'other' to project root and run it
